@@ -1,0 +1,33 @@
+/* Styling for the table */
+table {
+  width: 80%;
+  border-collapse: collapse;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+td {
+  font-size: 16px;
+}
+
+img {
+  width: 100px;
+  height: auto;
+}
+
+.video {
+  text-align: center;
+  padding: 20px;
+}
